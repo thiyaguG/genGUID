@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genGUID", "genGUID.csproj", "{DDC5068C-4E27-4E3C-ADEA-23E4C5EB89AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "genGUID", "genGUID.csproj", "{DDC5068C-4E27-4E3C-ADEA-23E4C5EB89AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genGUIDTests", "..\genGUIDTests\genGUIDTests.csproj", "{9EDB969A-4137-48C4-A4EE-3C0DCBD6661B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DDC5068C-4E27-4E3C-ADEA-23E4C5EB89AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC5068C-4E27-4E3C-ADEA-23E4C5EB89AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC5068C-4E27-4E3C-ADEA-23E4C5EB89AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDB969A-4137-48C4-A4EE-3C0DCBD6661B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDB969A-4137-48C4-A4EE-3C0DCBD6661B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDB969A-4137-48C4-A4EE-3C0DCBD6661B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDB969A-4137-48C4-A4EE-3C0DCBD6661B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

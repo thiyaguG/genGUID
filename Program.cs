@@ -2,7 +2,7 @@
 using System.Net.NetworkInformation;
 using System.Text;
 
-class CustomGuidGenerator
+public class CustomGuidGenerator
 {
     private static Random random = new Random();
 
